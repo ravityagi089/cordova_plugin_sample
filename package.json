@@ -1,4 +1,19 @@
 {
-  "name" : "HelloWorldPlugin", 
-  "version" : "0.0.1"
+  "name": "helloworldplugin",
+  "version": "0.0.1",
+  "description": "Work with PhoneGap 2.9.*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravityagi089/cordova_plugin_sample.git"
+  },
+  "author": "Ravi Tyagi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravityagi089/cordova_plugin_sample/issues"
+  },
+  "homepage": "https://github.com/ravityagi089/cordova_plugin_sample#readme"
 }
